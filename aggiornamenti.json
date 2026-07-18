@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.1",
+  "versione": "1.0.2",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Attivati gli aggiornamenti automatici: da ora il programma si aggiorna da solo.",
+  "note": "Nuova voce «Infortunato» tra le presenze agli allenamenti: fetta dedicata (viola) nel grafico e colonna nel report PDF.",
   "obbligatorio": false
 }
