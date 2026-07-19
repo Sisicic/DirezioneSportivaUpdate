@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.3",
+  "versione": "1.0.4",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Aggiunta l'informativa privacy: installata col programma e apribile da Aiuto → Documenti.",
+  "note": "Aggiunte le Condizioni d'uso nei documenti (Aiuto → Documenti). Gli aggiornamenti non chiedono più di creare l'icona sul desktop (niente doppioni).",
   "obbligatorio": false
 }
