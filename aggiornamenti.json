@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.4",
+  "versione": "1.0.5",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Aggiunte le Condizioni d'uso nei documenti (Aiuto → Documenti). Gli aggiornamenti non chiedono più di creare l'icona sul desktop (niente doppioni).",
+  "note": "Corretta l'icona della sezione Infortuni, che non veniva disegnata (menu, Home e Calendario).",
   "obbligatorio": false
 }
