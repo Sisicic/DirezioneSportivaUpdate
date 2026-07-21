@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.5",
+  "versione": "1.0.6",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Corretta l'icona della sezione Infortuni, che non veniva disegnata (menu, Home e Calendario).",
+  "note": "Scheda giocatore: altezza e peso (anche in import Excel e stampe). Nuova sezione «Test fisici» (aerobico, salto, sprint) con storico, grafici di andamento, classifiche ed export PDF. Ritocco grafico: schede più moderne, voce di menu attiva evidenziata, tabelle più leggibili. Corretto: cambiando la data di rilascio di una scadenza ora si aggiorna anche la scadenza proposta.",
   "obbligatorio": false
 }
