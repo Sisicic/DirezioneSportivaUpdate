@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.6",
+  "versione": "1.0.7",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Scheda giocatore: altezza e peso (anche in import Excel e stampe). Nuova sezione «Test fisici» (aerobico, salto, sprint) con storico, grafici di andamento, classifiche ed export PDF. Ritocco grafico: schede più moderne, voce di menu attiva evidenziata, tabelle più leggibili. Corretto: cambiando la data di rilascio di una scadenza ora si aggiorna anche la scadenza proposta.",
+  "note": "Statistiche giocatori per competizione e nuova scheda «Statistiche squadra» (gol per zona e lato porta). Presenza «Convocato in Nazionale». Esercizi allenamento riorganizzati per categoria (lavoro fisico, tattica, individuali per reparto, conclusioni…) con scelta a tendina raggruppata e report per categoria.",
   "obbligatorio": false
 }
