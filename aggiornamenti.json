@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.7",
+  "versione": "1.0.8",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Statistiche giocatori per competizione e nuova scheda «Statistiche squadra» (gol per zona e lato porta). Presenza «Convocato in Nazionale». Esercizi allenamento riorganizzati per categoria (lavoro fisico, tattica, individuali per reparto, conclusioni…) con scelta a tendina raggruppata e report per categoria.",
+  "note": "Ora puoi eliminare i singoli esercizi di una seduta (pulsante ✕) e le scadenze dalla scheda del giocatore. Corretto un problema per cui, eliminando un allenamento, la scheda Esercizi e il report non si aggiornavano. Guida (Aiuto) completa e aggiornata su tutte le sezioni.",
   "obbligatorio": false
 }
