@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.8",
+  "versione": "1.0.9",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Ora puoi eliminare i singoli esercizi di una seduta (pulsante ✕) e le scadenze dalla scheda del giocatore. Corretto un problema per cui, eliminando un allenamento, la scheda Esercizi e il report non si aggiornavano. Guida (Aiuto) completa e aggiornata su tutte le sezioni.",
+  "note": "Tre novità. TEST FISICI: il salto è ora diviso in due prove separate, Drop Jump e CMJ (Counter Movement Jump), entrambe in centimetri. PARTITE: nuova sezione « Eventi » dove segni gol e sostituzioni indicando il minuto; da questi il programma calcola da solo i minuti giocati, i gol, gli assist e il risultato finale (tu imposti solo la durata, di norma 90). STATISTICHE: nelle statistiche squadra trovi i gol fatti e subiti divisi tra primo e secondo tempo.",
   "obbligatorio": false
 }
