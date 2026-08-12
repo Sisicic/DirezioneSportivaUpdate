@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.11",
+  "versione": "1.0.12",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Diverse novità. STAMPE: nuovo report esercizi settimanali in PDF (scegli squadra e settimana). TEST FISICI: aggiunto lo sprint sui 10 metri; il test aerobico ora è il VO2 max (ml/kg/min) al posto della VAM. PRESENZE: due nuove causali « Parziale » e « Individuale » (voci a parte, non pesano sulla percentuale). ESERCIZI: nuova categoria « Duelli ».",
+  "note": "Novità sulle stampe degli allenamenti. Dalla sezione ALLENAMENTI, con il nuovo pulsante « Report esercizi (PDF) » (accanto a « Report presenze »), esporti in PDF gli esercizi svolti scegliendo il periodo. Inoltre la stampa del report esercizi si può ora fare per SETTIMANA oppure per MESE.",
   "obbligatorio": false
 }
