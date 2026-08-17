@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.12",
+  "versione": "1.0.13",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Novità sulle stampe degli allenamenti. Dalla sezione ALLENAMENTI, con il nuovo pulsante « Report esercizi (PDF) » (accanto a « Report presenze »), esporti in PDF gli esercizi svolti scegliendo il periodo. Inoltre la stampa del report esercizi si può ora fare per SETTIMANA oppure per MESE.",
+  "note": "Aggiornamento importante, tante novità e correzioni. PARTITE: risolto il caso in cui, con molti eventi, la « Formazione e minuti » diventava illeggibile; etichette più chiare negli eventi (marcatore, assist, chi entra e chi esce); gestione dei RIENTRI in campo con minuti calcolati correttamente (rientri bloccati in campionato e coppa, ammessi in amichevoli e tornei); nuova colonna « Gol subiti » per giocatore e « Porta inviolata » ora calcolata in automatico. CAMPIONATI: le amichevoli e i tornei inseriti in Partite compaiono da soli anche in « Le tue partite »; sistemata la vista quando ci sono molte amichevoli. ALLENAMENTI: report esercizi anche per mese (oltre che per settimana) ed esportabile in PDF dalla sezione Allenamenti; percentuali per categoria e per esercizio; nuova categoria « Giochi Tattici ». OSSERVATI: scarichi un modello Excel già pronto da compilare e importare; nuova importazione dalla FOTO di una distinta avversaria (l'AI legge i giocatori). TEST FISICI: aggiungi un test direttamente dalla sezione Test fisici; sprint sui 10 metri e VO2 max. E molte piccole rifiniture.",
   "obbligatorio": false
 }
