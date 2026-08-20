@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.13",
+  "versione": "1.0.14",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Aggiornamento importante, tante novità e correzioni. PARTITE: risolto il caso in cui, con molti eventi, la « Formazione e minuti » diventava illeggibile; etichette più chiare negli eventi (marcatore, assist, chi entra e chi esce); gestione dei RIENTRI in campo con minuti calcolati correttamente (rientri bloccati in campionato e coppa, ammessi in amichevoli e tornei); nuova colonna « Gol subiti » per giocatore e « Porta inviolata » ora calcolata in automatico. CAMPIONATI: le amichevoli e i tornei inseriti in Partite compaiono da soli anche in « Le tue partite »; sistemata la vista quando ci sono molte amichevoli. ALLENAMENTI: report esercizi anche per mese (oltre che per settimana) ed esportabile in PDF dalla sezione Allenamenti; percentuali per categoria e per esercizio; nuova categoria « Giochi Tattici ». OSSERVATI: scarichi un modello Excel già pronto da compilare e importare; nuova importazione dalla FOTO di una distinta avversaria (l'AI legge i giocatori). TEST FISICI: aggiungi un test direttamente dalla sezione Test fisici; sprint sui 10 metri e VO2 max. E molte piccole rifiniture.",
+  "note": "Novità e una correzione. PARTITE: nuovo « Report partite (PDF) » — riepilogo della stagione con minutaggi e medie di ogni giocatore, più i gol e i risultati divisi per competizione (campionato, coppa, amichevole, torneo). REPORT PRESENZE (PDF): i nomi delle colonne non vanno più a capo a metà parola (il report ora è in orizzontale, tutte le colonne leggibili). ESERCIZI: aggiunto « RSA » nella categoria Lavoro fisico.",
   "obbligatorio": false
 }
