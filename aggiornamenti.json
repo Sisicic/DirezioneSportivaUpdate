@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.18",
+  "versione": "1.0.19",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Novità di questa versione:\n• REPORT MINUTAGGI PER GIOCATORE — il report dei minutaggi è stato rifatto: ora è ordinato per giocatore (in ordine alfabetico) e per ognuno mostra le sue partite una per riga (data, avversario, competizione, in casa/trasferta, minuti, gol) con giocate, minuti totali, media e gol. Così rispondi al volo a 'quanti minuti ha fatto X contro Y?'.\n• CALENDARIO — ora nel Calendario compaiono anche i Triangolari (con la data, il nome e i due avversari).\n• CAMPIONATI — i Triangolari compaiono in automatico anche nella sezione Campionati (le due gare che giochiamo noi), senza dover prima aprire il dettaglio.\n• INFORTUNI — se segni 'Infortunato' all'allenamento un giocatore che è GIÀ infortunato, non viene più creato un doppione: al massimo la data di rientro prevista viene posticipata di un giorno.",
+  "note": "Novità di questa versione:\n• REPORT MINUTAGGI — prima di creare il PDF ora puoi scegliere DI QUALI giocatori stamparlo: si apre una finestra con le caselle dei giocatori (di default tutti, con le scorciatoie 'Tutti' e 'Nessuno'). Così stampi solo i giocatori che ti servono, non sempre tutti.",
   "obbligatorio": false
 }
