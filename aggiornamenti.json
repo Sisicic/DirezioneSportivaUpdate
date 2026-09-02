@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.21",
+  "versione": "1.0.22",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Novità di questa versione:\n• BARRA PIÙ ORDINATA — nella sezione Partite i tre pulsanti dei report sono ora raccolti in un unico menù « Report (PDF) ▾ » (partite, minutaggi, statistiche squadra). Nella Rosa i due export sono in un unico menù « Esporta ▾ » (PDF ed Excel). Così i pulsanti non si accavallano più.",
+  "note": "Novità di questa versione:\n• ROSA PIÙ ORDINATA — la barra dei pulsanti della Rosa è stata risistemata: il filtro squadra sta sopra e i pulsanti sotto, e vanno a capo da soli quando la finestra è stretta. Così non si sovrappongono più al menù della squadra.",
   "obbligatorio": false
 }
