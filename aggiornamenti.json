@@ -1,6 +1,6 @@
 {
-  "versione": "1.0.20",
+  "versione": "1.0.21",
   "url": "https://github.com/Sisicic/DirezioneSportivaUpdate/releases/latest/download/DirezioneSportivaSetup.exe",
-  "note": "Novità di questa versione:\n• PRESENZE — un giocatore aggiunto in rosa DOPO aver creato una seduta ora compare comunque nell'elenco dei presenti.\n• MODALITÀ GOL — nei gol (fatti e subiti) ora puoi scegliere 'Punizione diretta', 'Punizione indiretta' e 'Calcio d'angolo' (la vecchia 'Punizione' diventa 'diretta'); le Statistiche squadra le mostrano separate.\n• RITARDI — accanto a ogni presente c'è la casella 'Ritardo'; nel grafico presenze vedi quanti ritardi ha ciascuno.\n• REPORT STATISTICHE SQUADRA (PDF) — nuovo pulsante nella sezione Partite: riepilogo, gol per tempo, come segniamo/subiamo, modalità e dove subiamo.\n• REPORT MINUTAGGI — prima di stampare puoi scegliere di quali giocatori includere le pagine (di default tutti).\n• ESPORTA ROSA — nella Rosa i pulsanti 'Esporta PDF' ed 'Esporta Excel' (il file Excel è anche re-importabile).",
+  "note": "Novità di questa versione:\n• BARRA PIÙ ORDINATA — nella sezione Partite i tre pulsanti dei report sono ora raccolti in un unico menù « Report (PDF) ▾ » (partite, minutaggi, statistiche squadra). Nella Rosa i due export sono in un unico menù « Esporta ▾ » (PDF ed Excel). Così i pulsanti non si accavallano più.",
   "obbligatorio": false
 }
